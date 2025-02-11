@@ -4,26 +4,34 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+(bearly)Matt is a game designer based out of Kinross, Scotland with a penchance for the odd. He began his journey with solo rpg: [Sonata: The Life of Music](https://bearlymatt.itch.io/sonata), swiftly followed closely by the two-player [Melodie](https://bearlymatt.itch.io/melodie).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Taking the trifold leaflet layout to heart, (bearly)Matt created the [Library of Roleplaying Oddities](https://bearlymatt.itch.io) (BLRO) to showcase a wide variety of themes and mechanics utilising this format.
 
-## Features
+The BLRO blog contains dev diaries, deep dives, and random thoughts about game design
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+## Released Projects
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- [Sonata: The Life of Music](https://bearlymatt.itch.io/sonata)
+- [Melodie](https://bearlymatt.itch.io/melodie)
+- [Ephemeral Type](https://bearlymatt.itch.io/ephemeral-type)
+
+## Current (Development)  Projects
+
+- **bearlyMatt's Library of Roleplaying Oddities**
+  - Parliament of Owls
+  - Welcome to the Circus
+  - Black Cat
+  - Zero/One
+  - Psychopomp
+  - Coyote
+  - Storm in a Teacup
+  - Black Magic (On the Hollywood Sign)
+
+- **Standalone Projects**
+  - *Call Me Ishmael*
+  - *Foxes in the Night*
+
+## Utilised Systems
+- [Caltrop Core](https://titanomachyrpg.itch.io/caltropcore)
+- [Lost and Found](https://srd.mousehole.press)
