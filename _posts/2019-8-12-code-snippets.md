@@ -1,4 +1,5 @@
 ---
+draft: true
 layout: post
 title:  Code snippets in a blog post
 categories: [HTML,Code]
